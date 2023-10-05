@@ -25,14 +25,6 @@
  <hr/>
 
 
-<br>
-<div align=center>
-  <br/> 
-  <p align="right">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
-  
-</div>
-
 <br/><br/>
 
 
